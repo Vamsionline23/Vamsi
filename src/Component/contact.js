@@ -1,9 +1,13 @@
 import 'bootstrap/dist/css/bootstrap.min.css';
 import './contact.css';
 
+
 function Contact() {
   return (
-    <div className='if'>
+    <div>
+      
+      <div className='if'>
+      <div className='what'>
       <div className="container">
         <h1>Contact</h1>
       <form action="/action_page.php">
@@ -29,6 +33,8 @@ function Contact() {
         </div>
         <button type="submit" className="btn btn-primary">Submit</button>
       </form>
+    </div>
+      </div>
     </div>
     </div>
   );

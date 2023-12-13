@@ -7,13 +7,15 @@ function home() {
     <div>
       <div class='img'>
     <center> <img src={images} alt='text' /> </center>
-    </div>
+    
+    <br/>
+    <br/>
     <br/>
     <div class='if'>
     <div class="flip-card">
   <div class="flip-card-inner">
     <div class="flip-card-front">
-      <img src='https://images.unsplash.com/photo-1503023345310-bd7c1de61c7d?q=80&w=1000&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8aHVtYW58ZW58MHx8MHx8fDA%3D' alt='' />
+      <img src='https://images.unsplash.com/photo-1534237710431-e2fc698436d0?q=80&w=1000&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8YnVpbGRpbmd8ZW58MHx8MHx8fDA%3D' alt='' />
     </div>
     <div class="flip-card-back">
       <h1>John Doe</h1> 
@@ -25,7 +27,7 @@ function home() {
 <div class="flip-card">
   <div class="flip-card-inner">
     <div class="flip-card-front">
-      <img src='https://images.unsplash.com/photo-1629662179633-22aedfc1f854?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1yZWxhdGVkfDN8fHxlbnwwfHx8fHw%3D&w=1000&q=80' alt=''/>
+      <img src='https://images.unsplash.com/photo-1633571318583-e0fea2e715ae?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1yZWxhdGVkfDZ8fHxlbnwwfHx8fHw%3D&w=1000&q=80' alt=''/>
     </div>
     <div class="flip-card-back">
       <h1>John Doe</h1> 
@@ -37,7 +39,7 @@ function home() {
 <div class="flip-card">
   <div class="flip-card-inner">
     <div class="flip-card-front">
-      <img src='https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRoVmEkCPqORrtskl4ZflV9LHxpM24Gx1hrD-By1hnJ4Ca4j3f6EsUBoWPRdgVg0RYk2DM&usqp=CAU' alt=''/>
+      <img src='https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQYZAMwJPrnbjLM7-4X5SPz-sixWmYkir1YYXu2bMZbmLbV4xzN04NxPO8z-zCyL9lk9Qc&usqp=CAU' alt=''/>
     </div>
     <div class="flip-card-back">
       <h1>John Doe</h1> 
@@ -49,7 +51,7 @@ function home() {
 <div class="flip-card">
   <div class="flip-card-inner">
     <div class="flip-card-front">
-      <img src='https://st3.depositphotos.com/12982378/17855/i/450/depositphotos_178558354-stock-photo-portrait-happy-young-man-playing.jpg' alt=''/>
+      <img src='https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTr9h6h-FY2KYveIVhis1w93Km6Va9pRux-xtYVqpCZIp2PyYoXZYpPF-D7MDfzXMDO7hU&usqp=CAU' alt=''/>
     </div>
     <div class="flip-card-back">
       <h1>John Doe</h1> 
@@ -59,6 +61,7 @@ function home() {
   </div>
 </div>
 
+    </div>
     </div>
     </div>
   )
